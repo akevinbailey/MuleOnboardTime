@@ -360,7 +360,7 @@ def main():
       " This is example code only and has not been\n"
       " fully tested.  Under no circumstance should\n"
       " this code be run in a production environment.\n"
-      "---------------\n\n"
+      "---------------\n"
     )
 
     print("Authenticating...")
