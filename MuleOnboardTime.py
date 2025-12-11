@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 --- WARNING -- WARNING -- WARNING -- WARNING -- WARNING -- WARNING -- WARNING ---
-This is example code only and has not been tested. Under no circumstance should
+This is example code only and has not been fully tested. Under no circumstance should
 this code be run in a production environment.
 ---------------------------------------------------------------------------------
 MIT License
