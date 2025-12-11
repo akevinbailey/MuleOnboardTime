@@ -357,8 +357,8 @@ def main():
 
     print("--- WARNING ---")
     print(" This is example code only and has not been")
-    print(" tested.  Under no circumstance should this")
-    print(" code be run in a production environment.")
+    print(" fully tested.  Under no circumstance should")
+    print(" this code be run in a production environment.")
     print("---------------")
     print()
 
